@@ -1,0 +1,32 @@
+body{
+  background: url("../photos/background.jpg") no-repeat center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+img{
+    max-width: 1080px;
+    height: auto;
+}
+#mainlogo{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#userInput {
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+#submitButtonLogin{
+    text-align: center;
+    margin-left: 115px;
+    
+}
+
+#wrongPassword{
+    color: yellow;
+    margin-left: 50px;
+}
